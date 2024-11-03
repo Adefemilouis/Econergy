@@ -1,6 +1,6 @@
 "use client"
 import sun from "/public/image/sun.jpeg"
-import plane from "/public/image/Plane.jpeg"
+import plane from "/public/image/plane.jpeg"
 import Image from "next/image"
 const Tail = () => {
   return (
