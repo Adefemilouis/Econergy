@@ -3,9 +3,9 @@
 import Header from "@/components/ui/Header"
 import how from '/public/image/how.jpg'
 import Image from "next/image"
-import Jass from "@/components/ui/how it work/jass"
-import Coal from "@/components/ui/how it work/coal"
-import Form from "@/components/ui/how it work/form"
+import Jass from "@/components/ui/wtf/jass"
+import Coal from "@/components/ui/wtf/coal"
+import Form from "@/components/ui/wtf/form"
 import Freed from "@/components/ui/freed"
 
 const Services = () => {

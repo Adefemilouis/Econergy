@@ -5,7 +5,7 @@ import ant from "/public/image/ant.jpg"
 import Header from "@/components/ui/Header"
 
 import Fat from "@/components/ui/about/fat"
-import Form from "@/components/ui/how it work/form"
+import Form from "@/components/ui/wtf/form"
 import Freed from "@/components/ui/freed"
 
 

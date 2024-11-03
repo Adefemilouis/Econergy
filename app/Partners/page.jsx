@@ -2,7 +2,7 @@
 
 import Freed from "@/components/ui/freed"
 import Header from "@/components/ui/Header"
-import Form from "@/components/ui/how it work/form"
+import Form from "@/components/ui/wtf/form"
 import Green from "@/components/ui/partner/green"
 import Photo from "@/components/ui/photo"
 
