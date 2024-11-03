@@ -41,7 +41,7 @@ const Jass = () => {
             <div className="mx-12 mt-10">
                 <Image src={org} alt="alt" width={120} height={100} className="mx-20" />
                 <h1 className="h3 text-center text-primary my-6">ORGANISATION</h1>
-                 <h3 className="p   text-center">They don't optimize your costs, do<br/> not give you optimized options on<br/> renewable energy, and savings do<br/> not trickle down to you.</h3>
+                 <h3 className="p   text-center">They dont optimize your costs, do<br/> not give you optimized options on<br/> renewable energy, and savings do<br/> not trickle down to you.</h3>
 
             </div>
 
