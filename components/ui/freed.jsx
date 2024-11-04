@@ -32,7 +32,7 @@ const Freed = () => {
             <h3 className="h3 text-get my-6">Partners</h3>
             <h3 className="h3 text-get my-6">Join a Coalition</h3>
         </div>
-        <div className="ml-28 my-5 text-center">
+        <div className="ml-20 my-5 text-center">
             <h3 className="h3 text-white/100">ABOUT US</h3>
             <h3 className="h3 text-get my-6">Our Story</h3>
             <h3 className="h3 text-get my-6">Contact</h3>
