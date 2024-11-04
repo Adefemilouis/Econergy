@@ -15,7 +15,7 @@ const Services = () => {
      <section className="">
      
       <div className="flex flex-col-2 py-40 my-6">
-        <div className="my-">
+        <div className="mt-28">
           <Image src={how} alt="alt" width={790} height={890} />
         </div>
         <div className="mx-14">

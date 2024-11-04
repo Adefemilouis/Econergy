@@ -23,13 +23,13 @@ const How = () => {
     <h3>Join an Energy Coalition</h3>
 </button>
     </div>
-    <div className="xl:ml-20 text-center">
+    <div className="xl:ml-20 mb-28 text-center">
     <Image src={set} alt="alt" width={664} height={350} />
    <h1 className="h1 text-primary xl:my-10">Create a new energy coalition</h1>
    <h3 className="h3 xl:my-16">Econergy makes it easy by helping you with our easy set up process.</h3>
    <button className="bg-primary p-6 text-white ">
     <h3>Start a Coalition</h3>
-</button>
+    </button>
     </div>
     
    </div>

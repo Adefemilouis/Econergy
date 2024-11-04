@@ -22,13 +22,13 @@ const Coal = () => {
                 <Image src={sec} alt="alt" width={700} height={350} className="mx" />
                 <h1 className="h1 text-center text-primary my-8">Join an existing coalition</h1>
                 <h3 className="h3 text-center my-6">See our complete list of <span className="text-greet">existing energy coalitions</span>,<br/> and get started today.</h3>
-                <button className="h3 text-center text-white/100 bg-greet py-8 px-14 my-8 mx-48">Get Started</button>
+                <button className="h3 text-center text-white/100 bg-greet py-5 px-8 my-8 mx-48">Get Started</button>
             </div>
             <div className="my-8">
                 <Image src={set} alt="alt" width={700} height={350} className="mx-8" />
                 <h1 className="h1 text-center text-primary my-8">Start a Coalition</h1>
                 <h3 className="h3 text-center my-6">Econergy makes it easy by helping you with our easy<br/> set up process.</h3>
-                <button className="h3 text-center text-white/100 bg-greet py-8 pr-16 pl-4 my-8 mx-48">Start a coalition</button>
+                <button className="h3 text-center text-white/100 bg-greet py-5 pr-8 pl-4 my-8 mx-48">Start a coalition</button>
             </div>
         </div>
 

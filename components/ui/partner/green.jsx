@@ -78,17 +78,17 @@ const Green = () => {
             <div className="flex flex-col-3 my-24 mx-24">
                 <div className="mx-8">
                     <button className="py-42 px-40 border border-slate-400 text-center ">
-                        <Image src={asb} alt="alt" width={360} height={100} className='my-8' />
+                        <Image src={asb} alt="alt" width={460} height={100} className='my-8' />
                     </button>
                 </div>
                 <div className="mr-8">
-                    <button className="pt-28 pb-24 px-36 border border-slate-400 text-center ">
-                        <Image src={nas} alt="alt" width={350} height={180} className='my-8' />
+                    <button className="pt-28 pb-28 px-36 border border-slate-400 text-center ">
+                        <Image src={nas} alt="alt" width={450} height={180} className='my-8' />
                     </button>
                 </div>
                 <div className="mx-">
-                    <button className="py-28 px-48 border border-slate-400 text-center ">
-                        <Image src={assb} alt="alt" width={350} height={360} className='my-8' />
+                    <button className="py-28 px-36 border border-slate-400 text-center ">
+                        <Image src={assb} alt="alt" width={480} height={360} className='my-8' />
                     </button>
                 </div>
             </div>
@@ -104,8 +104,8 @@ const Green = () => {
                     </button>
                 </div>
                 <div className="ml-8">
-                <button className="py-40  px-16 border border-slate-400 text-center ">
-                        <Image src={mich} alt="alt" width={350} height={360} className='my-8' />
+                <button className="py-36  px-5 border border-slate-400 text-center ">
+                        <Image src={mich} alt="alt" width={450} height={360} className='my-8' />
                     </button>
                 </div>
             </div>
@@ -129,8 +129,8 @@ const Green = () => {
             <div className="flex flex-col-3 mx-20">
                 
                 <div className="ml-8">
-                <button className="pb- pt- px-28 border border-slate-400 text-center ">
-                        <Image src={pow} alt="alt" width={230} height={100} className='my-8' />
+                <button className="pb-1 pt- px-28 border border-slate-400 text-center ">
+                        <Image src={pow} alt="alt" width={288} height={100} className='my-8' />
                     </button>
                
                 </div>
@@ -142,7 +142,7 @@ const Green = () => {
                 </div>
                 <div className="ml-8">
                 <button className="pb-10 pt-10 px-28 border border-slate-400 text-center ">
-                        <Image src={ohio} alt="alt" width={230} height={100} className='my-8' />
+                        <Image src={ohio} alt="alt" width={260} height={100} className='my-8' />
                     </button>
                
                 </div>

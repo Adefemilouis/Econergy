@@ -14,8 +14,8 @@ const Tail = () => {
         <h1 className="h1 text-primary">that can be reduced by distributed <br/> solar over next 30 years</h1>
 
     </div>
-    <div className="h2 mr-20 my-48 text-white">=</div>
-    <div className="mx-14 ">
+    <div className="h2 ml-28 my-48 text-white">=</div>
+    <div className="mx-14 mb-28">
         <Image src={plane} alt="alt" width={400} height={150} className="ml-24" />
         <h2 className="h2 my-6 ml-48 text-white">24.1</h2>
         <h3 className="h3 my-6 mr-20 text-center text-white">BILLION PEOPLE ON AVERAGE </h3>

@@ -46,7 +46,7 @@ export default function Home() {
       </h1>
       </div>
     <div className="   ">
-    <div className=' '>
+    <div className='mt-48 '>
       <Image src={main} alt="alt" width={990} height={700} className="" />  
       
     </div>
