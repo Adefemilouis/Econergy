@@ -3,7 +3,7 @@ import React from 'react'
 const Form = () => {
   return (
     <section  className='my-28' >
-       <div className="bg-white  py-48 my-16 pl-44 pr-48 m-48">
+       <div className="bg-white  py-48 my-16 pl-28 pr-48 m-48">
         <h3 className="h1 text-accent text-center">GET STARTED</h3>
         <h3 className="h3 my-8 text-center">Fill out the form below, or contact us at +1 (815) 200-4733.</h3>
 

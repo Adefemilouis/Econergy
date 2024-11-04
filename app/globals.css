@@ -15,7 +15,10 @@
       @apply text-[46px] xl:text-[54px] leading-[1.1] font-bold;
     }
     .h3 {
-      @apply text-[20px] xl:text-[24px] leading-[1.0998] font-semibold;
+      @apply text-[20px] xl:text-[24px] leading-[1.1] font-semibold;
+    }
+    .h4 {
+      @apply text-[20px] xl:text-[32px] leading-[1.1] font-semibold;
     }
 
 

@@ -58,14 +58,14 @@ const Jass = () => {
 
         </div>
         <div className=" mx-20">
-            <Image src={mem} alt="alt" width={200} height={150} className="ml-16 my-12"/>
+            <Image src={mem} alt="alt" width={200} height={150} className="ml-16 mr-24 my-12"/>
             <h3 className="h3 text-center text-primary my-8">Member use Incitive</h3>
             <h3 className="h3 text-center ">Econergy can create a royalty <br/> program for organizations<br/> interested in a coalition.</h3>
 
 
         </div>
         <div className="my-8 mx-20">
-            <Image src={cost} alt="alt" width={200} height={150} className="ml-20 my-12"/>
+            <Image src={cost} alt="alt" width={200} height={150} className="mx-20 my-12"/>
             <h3 className="h3 text-center text-primary my-8">No costs to maintain</h3>
             <h3 className="h3 text-center ">This is an 100% opt-in program for<br/> members. Your organization owns<br/> the coalition.</h3>
 

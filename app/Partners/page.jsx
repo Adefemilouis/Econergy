@@ -13,9 +13,9 @@ const Page = () => {
     <section className="py-10">
       <div className="flex flex-col-2">
         <div className="">
-        <h1 className="h1  ml-7  text-white/100  mt-96 xl:mt-96  relative z-10 ">Our pioneering model enables our<br /> partners to bring affordables renewable <br/>energy to their members</h1>
+        <h1 className="h4  ml-8  text-white/100  mt-96 xl:mt-96  relative z-10 ">Our pioneering model enables our<br /> partners to bring affordables renewable <br/>energy to their members</h1>
         </div>
-        <div className="">
+        <div className="mt-28">
           <Photo/>
         </div>
       </div>

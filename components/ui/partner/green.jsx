@@ -111,13 +111,13 @@ const Green = () => {
             </div>
             <div className="flex flex-col-3 my-8 mx-20">
             <div className="ml-8">
-                <button className="pb-14 pt-14 px-16 border border-slate-400 text-center ">
-                        <Image src={vass} alt="alt" width={380} height={360} className='my-8' />
+                <button className="pb-10 pt-14 px-16 border border-slate-400 text-center ">
+                        <Image src={vass} alt="alt" width={380} height={100} className='my-8' />
                     </button>
                 </div>
             <div className="ml-8">
                 <button className="pb-0 pt-8 px-28 border border-slate-400 text-center ">
-                        <Image src={kas} alt="alt" width={250} height={100} className='my-8' />
+                        <Image src={kas} alt="alt" width={300} height={100} className='my-8' />
                     </button>
                 </div>
             <div className="ml-8">
@@ -130,7 +130,7 @@ const Green = () => {
                 
                 <div className="ml-8">
                 <button className="pb-1 pt- px-28 border border-slate-400 text-center ">
-                        <Image src={pow} alt="alt" width={288} height={100} className='my-8' />
+                        <Image src={pow} alt="alt" width={300} height={100} className='my-8' />
                     </button>
                
                 </div>
@@ -142,7 +142,7 @@ const Green = () => {
                 </div>
                 <div className="ml-8">
                 <button className="pb-10 pt-10 px-28 border border-slate-400 text-center ">
-                        <Image src={ohio} alt="alt" width={260} height={100} className='my-8' />
+                        <Image src={ohio} alt="alt" width={300} height={100} className='my-8' />
                     </button>
                
                 </div>
